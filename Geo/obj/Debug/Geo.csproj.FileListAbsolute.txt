@@ -1,0 +1,7 @@
+C:\Alex\Working\C#\Projects\Geo\Geo\bin\Debug\Geo.exe.config
+C:\Alex\Working\C#\Projects\Geo\Geo\bin\Debug\Geo.exe
+C:\Alex\Working\C#\Projects\Geo\Geo\bin\Debug\Geo.pdb
+C:\Alex\Working\C#\Projects\Geo\Geo\obj\Debug\Geo.csprojAssemblyReference.cache
+C:\Alex\Working\C#\Projects\Geo\Geo\obj\Debug\Geo.csproj.CoreCompileInputs.cache
+C:\Alex\Working\C#\Projects\Geo\Geo\obj\Debug\Geo.exe
+C:\Alex\Working\C#\Projects\Geo\Geo\obj\Debug\Geo.pdb

@@ -1,0 +1,17 @@
+C:\Alex\Working\C#\Projects\Geo\GeoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Alex\Working\C#\Projects\Geo\GeoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Alex\Working\C#\Projects\Geo\GeoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Alex\Working\C#\Projects\Geo\GeoTests\bin\Debug\GeoTests.dll
+C:\Alex\Working\C#\Projects\Geo\GeoTests\bin\Debug\GeoTests.pdb
+C:\Alex\Working\C#\Projects\Geo\GeoTests\bin\Debug\Geo.exe
+C:\Alex\Working\C#\Projects\Geo\GeoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Alex\Working\C#\Projects\Geo\GeoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Alex\Working\C#\Projects\Geo\GeoTests\bin\Debug\Geo.pdb
+C:\Alex\Working\C#\Projects\Geo\GeoTests\bin\Debug\Geo.exe.config
+C:\Alex\Working\C#\Projects\Geo\GeoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Alex\Working\C#\Projects\Geo\GeoTests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Alex\Working\C#\Projects\Geo\GeoTests\obj\Debug\GeoTests.csprojAssemblyReference.cache
+C:\Alex\Working\C#\Projects\Geo\GeoTests\obj\Debug\GeoTests.csproj.CoreCompileInputs.cache
+C:\Alex\Working\C#\Projects\Geo\GeoTests\obj\Debug\GeoTests.csproj.CopyComplete
+C:\Alex\Working\C#\Projects\Geo\GeoTests\obj\Debug\GeoTests.dll
+C:\Alex\Working\C#\Projects\Geo\GeoTests\obj\Debug\GeoTests.pdb
